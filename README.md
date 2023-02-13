@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on: Emacs, C/C++, Chromium.
+- 🔭 I’m currently working on: Device Management, Authentication and Authorization, Cell-based architecture.
 - 🌱 I’m currently learning: Apple and Android Remote device management. 
 - 💬 Ask me about: Some of my open source project, chromium and AWS.
 - 📫 How to reach me: Sunhick@gmail.com
